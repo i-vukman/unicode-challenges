@@ -1,5 +1,9 @@
-// Reverse a string "Rasistički"
+// Reverse the strings "Rasistički" and "Rasistički"
 
-const reversed = "Rasistički"; // TODO: reverse a string
+const reversed1 = "Rasistički"; // TODO: reverse a string
 
-console.log(reversed);
+console.log(reversed1);
+
+const reversed2 = "Rasistički"; // TODO: reverse a string
+
+console.log(reversed2);
