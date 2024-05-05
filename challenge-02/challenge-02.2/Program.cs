@@ -5,3 +5,7 @@ var toReverse = "Rasistički";
 var reversed = ""; // TODO reverse toReverse using grapheme clusters https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction
 
 Console.WriteLine(reversed);
+
+// Print number of letters in string
+
+var text = "Rasistički";
