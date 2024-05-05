@@ -1,6 +1,6 @@
 /* Create two nondeterministic level-1 icu collations, da and und */
 
-/* 1. Using da collation, check that "AA" would match "å"*/
+/* 1. Using da collation, check that "AA" matches "å"*/
 
 SELECT 'AA' = 'å';
 
